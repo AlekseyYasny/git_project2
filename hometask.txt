@@ -1,0 +1,9 @@
+Ветки master и demo ничем не отличаются.
+
+Комментарии к коммитам:
+
+First commit
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'hat' of https://github.com/YandexLyceum/human
+Merge branch 'boots_buttons'
